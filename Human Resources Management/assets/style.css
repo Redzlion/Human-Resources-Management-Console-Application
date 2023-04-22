@@ -1,0 +1,148 @@
+.navbar-custom {
+    color: #CC3333;
+    background-color: purple;
+    }
+ 
+ .btn-space {
+    margin-right: 10px;
+}
+.navbar-brand{
+	color: purple;
+	font-size: 30px;
+	font-family: "candara";
+}
+.nav-item:hover {
+  background-color: #2b164d;
+  border-radius: 5px;
+}
+a{
+	font-size: 18px;
+}
+.nav-link{
+	color: #FFFFFF;
+}
+.navbar-light{
+background-color: #020205;
+height: 95px;
+}
+.btn-custom2 {
+background-color: #403742;
+}
+.list-group-item{
+background-color: #020205;
+border-color: #7247E8;
+height: 50px;
+width: 100px;
+margin: 15px;
+
+}
+.list-group-item2{
+  background-color: #7247E8;
+  height: 50px;
+  width: 150px;
+  margin: 15px;
+  }
+.nav-link
+{
+  margin: 15px;
+}
+.custom-dropdown{
+  margin-left: 300px;
+}
+.heading{
+text-align: left;
+font-size: 56px;
+margin-left: 350px;
+margin-right: 350px;
+margin-top: 150px;
+}
+body { background: linear-gradient(180deg, #ebeaf5 1000px, #FFFFFF 90px); 
+}
+.btn-custom{
+  background-color:#7247E8 ;
+  margin-left: 350px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 200px; 
+  height: 40px;
+}
+.main-img{
+    margin-left: 350px;
+    margin-right: 350px;
+    width: 850px;
+    height: 450px;
+    border-radius: 20px;
+    margin-bottom: 250px;
+}
+.custom-p{
+  text-align: left;
+  margin-left: 350px;
+  font-size: 18px;
+}
+hr{
+  margin-left: 350px;
+  margin-top: 30px;
+  text-align: left;
+  width: 50%;
+}
+.info{
+  margin-left: 350px;
+  margin-right: 350px;
+  font-size: 18px;
+  margin-top: 50px;
+}
+.info2{
+  margin-left: 350px;
+  margin-right: 350px;
+  font-size: 18px;
+  margin-top: 30px;
+ 
+}
+.listing{
+  margin-left: 350px;
+  margin-right: 350px;
+  font-size: 18px;
+  margin-top: 30px;
+}
+a{
+  text-decoration: none;
+}
+.normal-headings{
+  text-align: left;
+  font-size: 30px;
+  margin-left: 350px;
+  margin-right: 350px;
+  margin-top: 70px;
+  }
+li{
+  margin-top: 5px;
+}
+
+.logo-1{
+  padding-left: 40px;
+}
+.navbar{
+  position: fixed;
+    top: 0;
+    width: 100%;
+}
+.cst-color{
+background-color:#020205 ;
+height: 650px;
+}
+.info3{
+  margin-left: 350px;
+  margin-right: 350px;
+  font-size: 18px;
+  margin-top: 30px;
+  margin-bottom: 200px;
+ 
+}
+.emp-img{
+width: 56px;
+height: 56px;
+border-radius: 15px;
+margin-left: 350px;
+text-align: left;
+margin-bottom:20px ;
+}
