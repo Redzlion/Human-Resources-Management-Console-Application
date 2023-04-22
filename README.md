@@ -17,3 +17,5 @@ Remove an employee from a department
 3.Employee Search:  Search for employees by their full name and optionally by their position 
 
 The application uses an HResourceManager class to handle the main HR management logic. The Employee and Department classes are used to store information about employees and departments, respectively. Additionally, the application utilizes the Project.Services, Project.Enums, and Project.Models namespaces for organizing the code.
+
+![Screenshot 2023-04-22 023512](https://user-images.githubusercontent.com/73228864/233752349-1e4a6a15-6b78-4b55-8d9a-e986de659fda.png)
